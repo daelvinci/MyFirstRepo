@@ -18,3 +18,8 @@ Tələbə İmtahan Qiymətini Daxil Edir. Daxil Edilən İmtahan Qiyməti 0 və 
 
 Task-5
 Verilən 4 rəqəmli ədədin rəqəmlərininin tək olanların cəmini və cüt olanlarının hasilinin tapan alqoritmini tapın.
+
+
+
+
+https://github.com/vusal-imanoff/LabTasks1 
