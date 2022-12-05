@@ -1,0 +1,20 @@
+Task-1
+Verilən iki ədədin birincisinin kavadratının və ikincisinin kubunun cəmini tapan algoritm yazın
+
+Task-2
+Bir ədəd verilir. Əgər ədəd 5dən kiçikdirsə ədəd bir vahid artır. Və əgər ədəd 4ə bərabərdirsə ekrana “Hello P232” çapa verilir.
+
+Task-3
+3 reqemli ededin polindrom olub olmamasini tapan alqoritm
+
+Task-4
+Tələbə İmtahan Qiymətini Daxil Edir. Daxil Edilən İmtahan Qiyməti 0 və 100 Aralığında Olmalıdır.
+Əgər Qiymət 91 və 100 Aralığındadırsa A Çap Etsin.
+Əgər Qiymət 81 və 90 Aralığındadırsa B Çap Etsin.
+Əgər Qiymət 71 və 80 Aralığındadırsa C Çap Etsin.
+Əgər Qiymət 61 və 70 Aralığındadırsa D Çap Etsin.
+Əgər Qiymət 51 və 60 Aralığındadırsa E Çap Etsin.
+Əgər Qiymət 51 -dən Kiçikdirsə Kəsildiniz Çap Etsin.
+
+Task-5
+Verilən 4 rəqəmli ədədin rəqəmlərininin tək olanların cəmini və cüt olanlarının hasilinin tapan alqoritmini tapın.
